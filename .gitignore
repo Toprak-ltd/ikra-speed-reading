@@ -1,0 +1,9 @@
+# Veritabanı dosyasını görmezden gel (Güvenlik)
+database/*.sqlite
+
+# VS Code ayar dosyalarını görmezden gel
+.vscode/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
