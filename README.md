@@ -17,7 +17,7 @@ Bu projeyi kendi bilgisayarınızda çalıştırmak için **PHP** yüklü olmas�
 
 1. **Projeyi İndirin:**
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/ikra-projesi.git](https://github.com/KULLANICI_ADIN/ikra-projesi.git)
+   git clone (https://github.com/Toprak-ltd/ikra-projesi.git)
    cd ikra-projesi
 
 2. **Veritabanını Kurun: Terminalde şu komutu çalıştırarak veritabanını oluşturun:**
@@ -41,6 +41,6 @@ php -S localhost:8000 -t public
 
 
 
-Geliştirici: [İsmail Toprak ARICIOĞLU];
+Geliştirici: İsmail Toprak ARICIOĞLU;
 
 ## 🌱 Bir Toprak MAHSULÜDÜR 🌱 ##
